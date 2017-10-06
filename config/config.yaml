@@ -1,0 +1,13 @@
+########################################################
+#           Alphagriffin.com                           #
+# ==================================================== #
+# Application: Python Key: value for options class.    #
+#   - options.key = value                              #
+########################################################
+
+verbose: True
+
+#//////| DATABASE |\\\\\\#
+redis_host: 'localhost'
+
+#//////| APP |\\\\\\#
