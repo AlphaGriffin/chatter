@@ -9,5 +9,6 @@ verbose: True
 
 #//////| DATABASE |\\\\\\#
 redis_host: 'localhost'
+redis_pass: ' '
 
 #//////| APP |\\\\\\#
