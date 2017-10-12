@@ -1,0 +1,10 @@
+This is some sample text
+
+
+this is some $s formating .... / stuff
+
+THIS IS A BUNCH OF CAPS
+
+This is more proper.
+
+<html><script>Secret java codez</script></html>
